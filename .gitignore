@@ -4,3 +4,5 @@ Qwen/
 *.safetensors
 .autodl/
 
+.*/
+
